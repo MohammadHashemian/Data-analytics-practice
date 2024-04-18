@@ -1,6 +1,6 @@
 ipython
 ipykernel
-pyspark
+pyspark==3.5.0
 pyspark[sql]
 pyspark[pandas_on_spark]
 plotly
