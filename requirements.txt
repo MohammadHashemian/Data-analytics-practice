@@ -1,7 +1,2 @@
-ipython
-ipykernel
 pyspark==3.5.1
-pyspark[sql]
-pyspark[pandas_on_spark]
-plotly
-pyspark[connect]
+openpyxl
