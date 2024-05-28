@@ -3,6 +3,7 @@
         "amarnameh",
         "crealytics",
         "CUDA",
+        "openpyxl",
         "Prescribers",
         "pyspark"
     ]
