@@ -3,10 +3,17 @@
         "amarnameh",
         "crealytics",
         "CUDA",
+        "dataframes",
+        "fuzzywuzzy",
+        "ghotb",
         "openpyxl",
         "papluca",
         "Prescribers",
         "pyspark",
-        "sparknlp"
+        "soundex",
+        "sparknlp",
+        "برند",
+        "پروانه",
+        "صاحب"
     ]
 }
